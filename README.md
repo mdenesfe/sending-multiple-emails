@@ -11,9 +11,6 @@ This application sends all files in a specific folder to a given list of recipie
 ## Usage
 The application sends all files in the directory where it is run to the recipients. If a file named 'mail.py' exists in the directory, it will not be sent.
 
-## License
-This application is licensed under the MIT license. See the LICENSE file for details.
-
 ## Contributors
 - [mdenesfe](https://github.com/mdenesfe)
 
